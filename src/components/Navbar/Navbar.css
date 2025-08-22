@@ -1,0 +1,13 @@
+.navbar {
+  background-color: var(--color-black);
+}
+
+.navbar-logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-logo img {
+  width: 150px;
+}
